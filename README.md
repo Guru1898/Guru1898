@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajaguru
-- 👀 Basically I am a mechanical engineer but looking to change my domain to IT
-- 🌱 I’m currently learning DSA, front end and back end devlopment
+- 👀 Basically I am a mechanical engineer
+- 🌱 I love coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
